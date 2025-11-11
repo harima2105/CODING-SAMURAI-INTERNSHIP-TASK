@@ -37,5 +37,3 @@ Monthly sales totals shown in a line chart
 Best and worst month identification
 
 Region-wise heatmap to compare performanceIdentify sales trends over time.
-
-ance
