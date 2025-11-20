@@ -37,3 +37,37 @@ Monthly sales totals shown in a line chart
 Best and worst month identification
 
 Region-wise heatmap to compare performanceIdentify sales trends over time.
+
+**4. Employee Attrition Insights**
+
+**Objective:** Analyze basic attrition patterns.
+
+**Highlights:**
+
+Attrition rate of employees
+
+Attrition by department shown in bar chart
+
+Average age of employees leaving the company.
+
+**5. Sales Predictions Using Basic Models**
+
+**Objective:** Predict future sales using trends.
+
+**Highlights:**
+
+Basic trend analysis to project next month sales
+
+Trends shown in line chart and suggestions based on observed trends.
+
+**6. Movie Recommendation Based on User Ratings**
+
+**Objective:** Build a simple movie recommendation system.
+
+**Highlights:**
+
+The most popular movies based on average ratings
+
+Group movies by genre and shown count of movies per genre
+
+Recommendations of top-rated movies in a specific genre to users.
